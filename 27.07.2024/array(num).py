@@ -1,6 +1,3 @@
-# Author: OMKAR PATHAK
-
-# This program illustrates how to create an adarray from numerical ranges
 
 import numpy as np
 
